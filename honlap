@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!-- ez az elem magáról az egész oldalról mond valamit, hasznos a keresőmotorok, gépek számára  -->
+    <title>Frodo Baggins' website</title>
+    <!-- a böngésző címsorában jelenik meg -->
+    <link rel="stylesheet" href="sajatstilus.css">
+    <link>
+    <script></script>
+    <!-- jó bonyi program tud itt lenni, de akár be is lehet linkelni a js-t -->
+  </head>
+  <body>
+   
+      
+    <div class="cim"><h1>Zsákos Frodó története</h1> </div>
+
+    <div class="szoveg1">
+        <table style="width:600px" >
+            <tr>
+            <td> <img src="babo_1.jpg" width="100" style="margin-right: 1cm;"> </td>
+            <td>Volt egyszer egy földbe vájt lyuk és abban élt egy babó. Nem volt ez a lyuk rút, mocskos, nedves, teli féregmaradékkal, dohszaggal, sem száraz, csupasz, homokos lyuk, ahol se leülni, sem enni nemigen lehet: ez babólyuk volt, ami egyértelmű a kényelemmel. 
+            </td>
+              
+            </tr>
+          </table> 
+    </div>
+   
+  </body>
+</html>
