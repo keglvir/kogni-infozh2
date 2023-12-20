@@ -1,8 +1,9 @@
-.cim {color: #8f8fc3b0;
+.cim {color: #0000ffb0;
     float: none; /* padding: 100px; */
     margin-top: 50px;
     margin-bottom: 50px;
-    margin-left: 200px;}
+    margin-left: 200px;
+    font-size: 36px;}
 
 .szoveg {
     text-align: justify;
@@ -21,16 +22,21 @@
 
 .szoveg .custom2 {
     /* Your styles for the modified text go here */
-    color: #9aa5bb; /* Example: red text color */
+    color: #ff04cd; /* Example: red text color */
     font-size: 18px; /* Example: larger font size */
     /* Add any other styles as needed */
 }
 
 .szoveg .custom3 {
     /* Your styles for the modified text go here */
-    color: #be769b; /* Example: red text color */
+    color: #06691a; /* Example: red text color */
     font-size: 18px; /* Example: larger font size */
     /* Add any other styles as needed */
 }   
-    
-    
+
+body {
+    background-color: #ececf9;
+    opacity: 0.8;
+    background-image:  linear-gradient(#444cf7 2px, transparent 2px), linear-gradient(90deg, #444cf7 2px, transparent 2px), linear-gradient(#444cf7 1px, transparent 1px), linear-gradient(90deg, #444cf7 1px, #ececf9 1px);
+    background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
+    background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;}
